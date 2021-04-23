@@ -1,0 +1,25 @@
+body {
+  position:relative;
+  margin:0px;
+  background-image: url(images/pic.jpg);
+}
+
+#text {
+	font-size: 50px;
+	font-family: 'Lobster';
+	text-align: center;
+	color: white;
+}
+
+#canvas{
+  position: fixed;
+  top:0px;
+  left:0px;
+  width:100vw;
+  height:100vh;
+}
+
+.emoji {
+  font-size:34px;
+  position:absolute;
+}
